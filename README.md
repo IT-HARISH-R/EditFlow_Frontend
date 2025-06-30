@@ -1,12 +1,27 @@
-# React + Vite
+# 🎨 EditFlow – React Toast UI Image Editor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**EditFlow** is a modern, offline-compatible image editor built with **React** and **Toast UI Image Editor**. Users can upload, edit, and download images using a clean, fast interface. Powered by React, styled with Tailwind CSS, and ready for expansion (backend, dark mode, user auth).
 
-Currently, two official plugins are available:
+![EditFlow Preview](https://user-images.githubusercontent.com/your-github-id/editflow-preview.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✅ Upload and edit images (crop, rotate, flip, draw, text, shapes)
+- ✅ Built with Toast UI Image Editor (open source)
+- ✅ Download final edited image
+- ✅ Fully client-side, works offline (no API keys required)
+- ✅ Tailwind CSS styling
+- ✅ Dark/Light mode toggle *(coming soon)*
+- ✅ Image history + user login *(coming soon)*
+
+---
+
+## 📸 Tech Stack
+
+- **Frontend**: React, Toast UI Image Editor, Tailwind CSS
+- **Backend** *(Planned)*: Node.js, Express, MongoDB
+- **Deployment**: Netlify (Frontend), Render/Render.com (Backend)
+
+---
